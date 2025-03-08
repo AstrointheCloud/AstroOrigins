@@ -1,5 +1,5 @@
 <h1>Hi 👋🏾, I'm Marian, known as well as Astro! <br/><a href="https://github.com/AstrointheCloud">                                                                                                                                                                            
-, <a href="https://www.linkedin.com/in/mariana-lugo/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+, <a href="https://www.linkedin.com/in/mariana-lugo/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg">YouTuber</a></h1>
 
 <h2>Cloud Engineering Projects:</h2>
 
