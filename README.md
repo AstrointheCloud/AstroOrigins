@@ -1,9 +1,9 @@
 <h1>Hi 👋🏾, I'm Marian, known as well as Astro! <br/><a href="https://github.com/AstrointheCloud">                                                                                                                                                                            
-, <a href="https://www.linkedin.com/in/mariana-lugo/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg">YouTuber</a></h1>
+, <a href="https://www.linkedin.com/in/mariana-lugo/">Cloud Engineer</a>, <a href="https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg">YouTuber</a></h1>
 
 <h2>Cloud Engineering Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Hosting a Static Website)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
