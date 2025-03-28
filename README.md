@@ -1,13 +1,16 @@
 <h1>Hi 👋🏾, I'm Marian, known as well as Astro! <br/><a href="https://github.com/AstrointheCloud">                                                                                                                                                                            
-, <a href="https://www.linkedin.com/in/mariana-lugo/">Cloud Engineer</a>, <a href="https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg">YouTuber</a></h1>
 
-<h2>Cloud Engineering Projects:</h2>
+  <a href="https://www.linkedin.com/in/mariana-lugo/"> My passion is to become a Cloud Security Engineer and here are some of the projects I have done.</a>  <a href="https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg"> </a></h1>
 
-- <b>Hosting a Static Website)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+<h2> ☁️💻 Cloud Engineering Projects:</h2>
+
+  - <b>Hosting a Static Website)</b>
+  - 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+  
+- <h2> ⚔️🛡️💻 Cybersecurity Projects:</h2>
+
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
